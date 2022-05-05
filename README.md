@@ -1,2 +1,2 @@
 # AutoComplete:
-JSON Live Data Search using Ajax JQuery
+JSON Live Data Search using Ajax JQuery.
